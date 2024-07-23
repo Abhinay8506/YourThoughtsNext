@@ -15,10 +15,10 @@ const Footer = () => {
        </a> </li>
         <li>
        <a href='https://www.linkedin.com/in/abhinay-goswami-a29353224/' className='text-white'>About Us</a></li>
-       <li>Contact Us</li></ul>
+       <li><a href='https://linktr.ee/goswamiabhinay' className='text-white'>Contact Us</a></li></ul>
        </div>
         
-       {/* <div className='  text-xs text-white   mt-auto ml-auto mr-auto  mb-auto'>@madebyharshit</div> */}
+       <div className='  text-xs text-white   mt-auto ml-auto mr-auto  mb-auto'>All rights reserved 2024 </div>
     </div>
     
   )
