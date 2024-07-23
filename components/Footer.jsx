@@ -14,7 +14,7 @@ const Footer = () => {
             Implemented Ideas
        </a> </li>
         <li>
-       <a href='https://www.linkedin.com/in/harshit-saxena-35b70b211/' className='text-white'>About Us</a></li>
+       <a href='https://www.linkedin.com/in/abhinay-goswami-a29353224/' className='text-white'>About Us</a></li>
        <li>Contact Us</li></ul>
        </div>
         
